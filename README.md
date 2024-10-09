@@ -13,7 +13,7 @@ There is a possibility that in some point of time it may break. Feel free to [po
 
 ## The Story Behind
 
-[Fabric.io](http://fabric.io) is a great tool made for mobile application developers. It provides data about standard and out-of-memory crashes, active users, audience growth and a lot more. Unfortunately the only official way to work with this data is using Fabric.io website. That means - no automation and no integrations with other services.
+[Fabric.io](http://fabric.io) is a great tool made for mobile application developers. It provides data about standard and out-of-memory crashes, active users, audience growth and a lot more. Unfortunately, the only official way to work with this data is using Fabric.io website. That means - no automation and no integration with other services.
 
 We decided to fix this issue.
 
